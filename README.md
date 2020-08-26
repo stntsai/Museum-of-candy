@@ -2,7 +2,7 @@
 
 Built with:
 
-	HTML/ Bootstrap
+	HTML/ CSS/ Bootstrap
 	
 Acknowledgments:
 
